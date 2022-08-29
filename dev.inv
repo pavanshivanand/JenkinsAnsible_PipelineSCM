@@ -1,2 +1,2 @@
 [webservers]
-20.235.125.73 ansible_user=jenkins
+52.172.232.37 ansible_ssh_pass=rachitha@123 ansible_ssh_user=jenkins
