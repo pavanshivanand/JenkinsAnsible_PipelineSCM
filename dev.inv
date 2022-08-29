@@ -1,2 +1,2 @@
 [webservers]
-20.235.125.73 ansible_user=jenkins
+20.235.125.73 ansible_ssh_user=jenkins
