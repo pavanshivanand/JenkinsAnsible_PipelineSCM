@@ -1,5 +1,5 @@
 ---
-- hosts: [ansible_clients]
+- hosts: webservers
   become: True
   tasks:
     - name: Install packages
